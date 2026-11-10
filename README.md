@@ -38,14 +38,14 @@ The dataset includes:
 
 5. Project Features
 
-1. Load student data using Pandas.
-2. Calculate total marks using NumPy.
-3. Calculate average marks.
-4. Assign grades to students.
-5. Check pass/fail results.
-6. Find the highest and lowest performers.
-7. Calculate subject-wise averages.
-8. Calculate overall class average.
+- Load student data using Pandas.
+- Calculate total marks using NumPy.
+- Calculate average marks.
+- Assign grades to students.
+- Check pass/fail results.
+- Find the highest and lowest performers.
+- Calculate subject-wise averages.
+- Calculate overall class average.
 
 6. Grading Criteria
 
